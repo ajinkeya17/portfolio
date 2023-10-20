@@ -1,2 +1,2 @@
-# yash-jain-portfolio
+# Ajinkeya-Chitrey-portfolio
 portfolio
